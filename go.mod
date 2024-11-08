@@ -1,4 +1,4 @@
-module github.com/getbrevo/brevo-go
+module github.com/groupalarm/brevo-go
 
 go 1.22.3
 
